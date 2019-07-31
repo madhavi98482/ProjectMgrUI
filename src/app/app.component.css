@@ -1,0 +1,23 @@
+
+
+.router-link {
+    padding: 5px;
+    background-color: #52e9bc; 
+    text-decoration: none;
+}
+.router-link:visited {
+    color: #444;
+}
+.router-link.router-link-active {
+    color: white; 
+    background-color: #52b9e9; 
+    text-decoration: none;
+}
+#navi{
+    
+    padding-top:10px; 
+    padding-left:20px;
+    padding-bottom:10px; 
+    background-color:#b4b0b0dc ;
+    
+} 

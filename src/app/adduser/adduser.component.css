@@ -1,0 +1,22 @@
+#adduser{
+    padding: 20px;
+    background-color: rgb(238, 238, 238); 
+    
+  }
+
+#listuser{
+  padding: 20px;
+}
+.panel-heading {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+.row{
+  padding: 10px;
+}
+  
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8
+  }
